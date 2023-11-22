@@ -1,0 +1,27 @@
+.titre{
+    text-align: center;
+}
+.tableau{
+    margin-top: 20px;
+}
+.champ{
+    background-color: #0f6db4;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+}
+.details{
+    background-color: #fcfcfc;
+    color: black;
+    box-shadow: rgba(41,40,39,0.86) 0 0 2px 0;
+    padding-left: 8px;
+}
+.colonne{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.bouton{
+    text-align: right;
+    margin-right: 15px;
+}
